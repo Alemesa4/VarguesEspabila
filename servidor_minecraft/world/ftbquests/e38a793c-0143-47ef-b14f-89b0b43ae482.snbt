@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "e38a793c014347efb14f89b0b43ae482"
+	name: "Alemesa4#e38a793c"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1742251806891L
+		2574E7CF699D5B45: 1742251806891L
+		0470194500CBE26C: 1742251806891L
+		0000000000000001: 1742251806891L
+	}
+	completed: {
+		2574E7CF699D5B45: 1742251806895L
+		0470194500CBE26C: 1742251806895L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
