@@ -1,0 +1,17 @@
+{
+	id: "e708530b-b506-4df7-9048-5c20097b9978"
+	type: "player"
+	player_name: "Neokiller"
+	ranks: {
+		e708530b-b506-4df7-9048-5c20097b9978: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Neokiller"
+		"ftbteams:description": ""
+		"ftbteams:color": "#74FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

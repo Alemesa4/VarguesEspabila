@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "e708530bb5064df790485c20097b9978"
+	name: "Neokiller#e708530b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
