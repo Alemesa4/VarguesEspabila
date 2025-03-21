@@ -1,0 +1,17 @@
+{
+	id: "e38a793c-0143-47ef-b14f-89b0b43ae482"
+	type: "player"
+	player_name: "Alemesa4"
+	ranks: {
+		e38a793c-0143-47ef-b14f-89b0b43ae482: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Alemesa4"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
