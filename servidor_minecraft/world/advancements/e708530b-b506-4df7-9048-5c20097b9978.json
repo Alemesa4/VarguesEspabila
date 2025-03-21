@@ -2498,9 +2498,11 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-03-21 15:52:25 +0000",
+      "scrubland": "2025-03-21 16:57:47 +0000",
       "erupting_inferno": "2025-03-21 16:15:07 +0000",
       "floodplain": "2025-03-21 16:38:19 +0000",
       "overgrown_greens": "2025-03-21 15:50:46 +0000",
+      "mediterranean_forest": "2025-03-21 17:05:26 +0000",
       "redwood_forest": "2025-03-21 15:49:38 +0000",
       "dune_beach": "2025-03-21 15:47:56 +0000",
       "pasture": "2025-03-18 14:49:16 +0000",
@@ -6372,6 +6374,7 @@
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "prison_small_1": "2025-03-21 16:51:17 +0000",
+      "oak_house_small_3": "2025-03-21 17:02:12 +0000",
       "oak_ship_1": "2025-03-21 15:44:12 +0000"
     },
     "done": false
@@ -7198,6 +7201,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-21 17:03:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-21 16:42:17 +0000"
@@ -7227,6 +7236,12 @@
       "has_item": "2025-03-21 16:42:17 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-21 17:03:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {

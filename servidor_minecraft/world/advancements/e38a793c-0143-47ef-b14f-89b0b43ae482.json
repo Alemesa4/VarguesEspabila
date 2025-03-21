@@ -8326,6 +8326,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-03-21 16:56:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-03-21 16:56:17 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/farmland": {
     "criteria": {
       "has_netherrack": "2025-03-21 16:12:54 +0000"
@@ -8383,6 +8395,12 @@
   "incubation:recipes/food/fried_egg": {
     "criteria": {
       "has_eggs": "2025-03-21 16:45:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-03-21 16:56:17 +0000"
     },
     "done": true
   },
@@ -8464,6 +8482,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-03-21 16:56:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-21 16:12:54 +0000"
@@ -8479,6 +8503,18 @@
   "twigs:recipes/bloodstone/bloodstone": {
     "criteria": {
       "has_item": "2025-03-21 16:13:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-03-21 16:56:17 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-21 17:03:12 +0000"
     },
     "done": true
   },
@@ -8560,6 +8596,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-21 17:03:12 +0000"
+    },
+    "done": false
+  },
   "netherexp:recipes/sanctum/lesion": {
     "criteria": {
       "has_item": "2025-03-21 16:19:19 +0000"
@@ -8620,6 +8662,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-03-21 16:56:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-03-21 16:45:47 +0000"
@@ -8629,6 +8677,12 @@
   "blue_skies:recipes/food/cake_compat": {
     "criteria": {
       "has_item": "2025-03-21 16:45:47 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-03-21 16:59:44 +0000"
     },
     "done": true
   },
@@ -8647,6 +8701,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-03-21 16:13:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2025-03-21 16:56:17 +0000"
     },
     "done": true
   },
