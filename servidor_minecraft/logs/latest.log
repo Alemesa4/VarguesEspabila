@@ -3885,3 +3885,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [21Mar2025 15:00:18.822] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [21Mar2025 15:04:23.197] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
 [21Mar2025 15:05:05.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neokiller has made the advancement [Multi-Disciplined]
+[21Mar2025 15:08:45.248] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[21Mar2025 15:08:45.519] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 271ms
+[21Mar2025 15:08:57.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2645ms or 52 ticks behind
+[21Mar2025 15:09:32.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[21Mar2025 15:11:37.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alemesa4 has made the advancement [What a Deal!]
+[21Mar2025 15:13:54.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neokiller has made the advancement [What a Deal!]
