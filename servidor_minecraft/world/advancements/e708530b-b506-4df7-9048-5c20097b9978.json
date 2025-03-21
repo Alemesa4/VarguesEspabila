@@ -5581,6 +5581,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-03-21 15:28:02 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/wide_bamboo_raft": {
     "criteria": {
       "has_boat": "2025-03-21 15:14:34 +0000"

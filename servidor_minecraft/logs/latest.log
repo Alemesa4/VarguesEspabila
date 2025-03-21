@@ -3896,3 +3896,20 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [21Mar2025 15:24:32.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alemesa4 was slain by Ferrous Wroughtnaut
 [21Mar2025 15:25:45.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neokiller was slain by Ferrous Wroughtnaut
 [21Mar2025 15:27:08.678] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Antonio'/7149, l='ServerLevel[world]', x=1105.30, y=62.00, z=12.70] died: Antonio was slain by Zombie
+[21Mar2025 15:28:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neokiller has completed the challenge [Just a Flesh Wound]
+[21Mar2025 15:29:32.414] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Adina'/1762, l='ServerLevel[world]', x=1093.52, y=50.00, z=54.46] died, message: 'Adina discovered the floor was lava'
+[21Mar2025 15:29:32.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Adina'/1762, l='ServerLevel[world]', x=1093.52, y=50.00, z=54.46] died: Adina discovered the floor was lava
+[21Mar2025 15:32:58.824] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shaina'/1841, l='ServerLevel[world]', x=1138.53, y=76.00, z=124.95] died, message: 'Shaina was shot by Pillager'
+[21Mar2025 15:32:58.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Shaina'/1841, l='ServerLevel[world]', x=1138.53, y=76.00, z=124.95] died: Shaina was shot by Pillager
+[21Mar2025 15:35:43.838] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1576, y=-33, z=-61} but found not block entity block Block{minecraft:cave_air} at location
+[21Mar2025 15:35:43.839] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1576, y=-33, z=-61}
+[21Mar2025 15:35:52.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alemesa4 has made the advancement [You Are A Pirate]
+[21Mar2025 15:35:55.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neokiller has made the advancement [You Are A Pirate]
+[21Mar2025 15:36:01.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Alemesa4) moved wrongly! 0.3085076490005463
+[21Mar2025 15:36:01.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Alemesa4) moved wrongly! 0.3525532476384683
+[21Mar2025 15:36:01.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Alemesa4) moved wrongly! 0.2959578842556425
+[21Mar2025 15:36:02.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Alemesa4) moved wrongly! 0.460903993631149
+[21Mar2025 15:36:02.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Alemesa4) moved wrongly! 0.6101478369503894
+[21Mar2025 15:36:02.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Alemesa4) moved wrongly! 0.9310076434602053
+[21Mar2025 15:36:02.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Alemesa4) moved wrongly! 0.25423727469613766
+[21Mar2025 15:36:03.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Alemesa4) moved wrongly! 0.2601834949587811
