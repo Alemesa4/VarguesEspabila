@@ -3891,3 +3891,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [21Mar2025 15:09:32.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
 [21Mar2025 15:11:37.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alemesa4 has made the advancement [What a Deal!]
 [21Mar2025 15:13:54.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neokiller has made the advancement [What a Deal!]
+[21Mar2025 15:23:41.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alemesa4 was slain by Ferrous Wroughtnaut
+[21Mar2025 15:23:59.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neokiller was slain by Ferrous Wroughtnaut
+[21Mar2025 15:24:32.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alemesa4 was slain by Ferrous Wroughtnaut
+[21Mar2025 15:25:45.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neokiller was slain by Ferrous Wroughtnaut
+[21Mar2025 15:27:08.678] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Antonio'/7149, l='ServerLevel[world]', x=1105.30, y=62.00, z=12.70] died: Antonio was slain by Zombie
