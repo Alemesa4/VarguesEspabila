@@ -2520,6 +2520,7 @@
     "criteria": {
       "minecraft:pillager": "2025-03-18 14:50:50 +0000",
       "minecraft:skeleton": "2025-03-18 14:57:41 +0000",
+      "minecraft:ghast": "2025-03-21 16:19:05 +0000",
       "minecraft:vindicator": "2025-03-18 14:52:17 +0000",
       "minecraft:spider": "2025-03-18 14:57:35 +0000",
       "minecraft:creeper": "2025-03-18 14:58:19 +0000",
@@ -8434,9 +8435,21 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-21 16:19:31 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_smelting": {
     "criteria": {
       "has_item.minecraft.quartz": "2025-03-21 16:13:41 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-03-21 16:19:19 +0000"
     },
     "done": true
   },

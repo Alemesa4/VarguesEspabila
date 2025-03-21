@@ -3897,3 +3897,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [21Mar2025 16:16:39.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=320, y=87, z=-184} BlockPos{x=322, y=86, z=-185}
 [21Mar2025 16:16:39.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=320, y=87, z=-184} BlockPos{x=322, y=86, z=-185}
 [21Mar2025 16:16:39.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=320, y=87, z=-184} BlockPos{x=322, y=86, z=-185}
+[21Mar2025 16:20:19.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Neokiller> wew
+[21Mar2025 16:20:25.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alemesa4> FIU
+[21Mar2025 16:21:34.476] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[21Mar2025 16:21:34.639] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 163ms
