@@ -3926,3 +3926,23 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [21Mar2025 16:34:20.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Neokiller> z
 [21Mar2025 16:34:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Neokiller> z
 [21Mar2025 16:34:22.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Neokiller> hola
+[21Mar2025 16:40:33.405] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[21Mar2025 16:43:40.472] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Mar2025 16:43:40.473] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Mar2025 16:43:43.434] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[21Mar2025 16:43:43.445] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Mar2025 16:43:43.446] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Mar2025 16:43:43.446] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Mar2025 16:43:43.446] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Mar2025 16:43:45.546] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[21Mar2025 16:43:45.546] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[21Mar2025 16:43:45.547] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[21Mar2025 16:43:45.547] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[21Mar2025 16:43:45.547] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Mar2025 16:44:15.204] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[21Mar2025 16:44:15.204] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[21Mar2025 16:44:15.205] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[21Mar2025 16:44:15.205] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[21Mar2025 16:44:15.205] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[21Mar2025 16:44:15.208] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[21Mar2025 16:44:15.208] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
