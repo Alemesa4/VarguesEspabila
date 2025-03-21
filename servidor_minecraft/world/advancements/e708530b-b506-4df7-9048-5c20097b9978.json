@@ -84,6 +84,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-03-21 16:37:49 +0000",
       "minecraft:flower_forest": "2025-03-18 14:46:10 +0000",
       "minecraft:frozen_peaks": "2025-03-18 14:54:53 +0000",
+      "minecraft:savanna": "2025-03-21 16:50:39 +0000",
       "minecraft:plains": "2025-03-18 14:46:31 +0000"
     },
     "done": false
@@ -6370,6 +6371,7 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "prison_small_1": "2025-03-21 16:51:17 +0000",
       "oak_ship_1": "2025-03-21 15:44:12 +0000"
     },
     "done": false
@@ -7154,6 +7156,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-21 16:49:01 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-03-21 16:42:17 +0000"
@@ -7169,6 +7177,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-21 16:42:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-21 16:49:01 +0000"
     },
     "done": true
   },

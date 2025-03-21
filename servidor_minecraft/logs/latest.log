@@ -3946,3 +3946,11 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [21Mar2025 16:44:15.205] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
 [21Mar2025 16:44:15.208] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
 [21Mar2025 16:44:15.208] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[21Mar2025 16:52:21.193] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[21Mar2025 16:52:21.193] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[21Mar2025 16:52:21.193] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[21Mar2025 16:52:21.194] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[21Mar2025 16:52:21.194] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[21Mar2025 16:56:17.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alemesa4 has made the advancement [A Little Hot Rod Red]
+[21Mar2025 16:57:53.010] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[21Mar2025 16:58:05.418] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
