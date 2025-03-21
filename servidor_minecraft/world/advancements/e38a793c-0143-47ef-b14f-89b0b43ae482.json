@@ -68,6 +68,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-03-18 14:47:31 +0000",
+      "minecraft:deep_ocean": "2025-03-21 15:35:58 +0000",
       "minecraft:sunflower_plains": "2025-03-18 14:50:11 +0000",
       "minecraft:bamboo_jungle": "2025-03-21 14:40:59 +0000",
       "minecraft:beach": "2025-03-21 15:34:06 +0000",
@@ -78,6 +79,7 @@
       "minecraft:lush_caves": "2025-03-21 14:33:01 +0000",
       "minecraft:jungle": "2025-03-18 15:45:39 +0000",
       "minecraft:ocean": "2025-03-18 15:27:32 +0000",
+      "minecraft:frozen_peaks": "2025-03-21 15:38:40 +0000",
       "minecraft:savanna": "2025-03-18 15:44:33 +0000",
       "minecraft:plains": "2025-03-18 14:51:59 +0000"
     },
@@ -6780,6 +6782,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_bench": {
+    "criteria": {
+      "has_slab": "2025-03-21 15:38:18 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/bamboo_furnace_raft": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
@@ -6795,6 +6803,12 @@
   "aether:recipes/tools/aether_saddle": {
     "criteria": {
       "has_leather": "2025-03-21 15:09:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-03-21 15:36:16 +0000"
     },
     "done": true
   },
@@ -6840,9 +6854,45 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2025-03-21 15:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_cupboard": {
     "criteria": {
       "has_birch_cupboard": "2025-03-21 15:31:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:31 +0000"
     },
     "done": true
   },
@@ -6888,6 +6938,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/jungle_table": {
+    "criteria": {
+      "has_jungle": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-03-21 15:07:58 +0000"
@@ -6903,6 +6959,12 @@
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-03-21 15:09:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2025-03-21 15:36:31 +0000"
     },
     "done": true
   },
@@ -6951,6 +7013,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-21 15:31:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2025-03-21 15:36:31 +0000"
     },
     "done": true
   },
@@ -7026,6 +7094,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap/piston": {
     "criteria": {
       "has_sticky_piston": "2025-03-21 15:03:41 +0000"
@@ -7044,9 +7118,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/spruce_furnace_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_flower_box": {
+    "criteria": {
+      "has_slab": "2025-03-21 15:36:16 +0000"
     },
     "done": true
   },
@@ -7074,6 +7178,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-03-21 15:37:52 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
@@ -7086,6 +7196,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-03-21 15:36:16 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
@@ -7095,6 +7211,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2025-03-21 15:36:16 +0000"
     },
     "done": true
   },
@@ -7125,6 +7247,30 @@
   "boatload:recipes/transportation/large_oak_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2025-03-21 15:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_jungle": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2025-03-21 15:36:31 +0000"
     },
     "done": true
   },
@@ -7176,6 +7322,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-03-21 15:35:52 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
     "criteria": {
       "has_sand": "2025-03-21 15:34:14 +0000"
@@ -7203,6 +7355,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-03-21 15:36:31 +0000"
     },
     "done": true
   },
@@ -7242,6 +7400,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/amethyst_lamp": {
     "criteria": {
       "has_glowstone": "2025-03-21 15:29:37 +0000"
@@ -7272,9 +7436,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-03-21 15:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:31 +0000"
     },
     "done": true
   },
@@ -7290,9 +7466,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/blightwillow_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2025-03-21 15:36:31 +0000"
     },
     "done": true
   },
@@ -7308,9 +7496,27 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_shutter": {
+    "criteria": {
+      "has_slab": "2025-03-21 15:38:18 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/birch_support": {
     "criteria": {
       "has_plank": "2025-03-21 15:31:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:31 +0000"
     },
     "done": true
   },
@@ -7368,6 +7574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_table": {
     "criteria": {
       "has_planks": "2025-03-21 15:31:30 +0000"
@@ -7380,9 +7592,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_seat": {
+    "criteria": {
+      "has_plank": "2025-03-21 15:36:31 +0000"
     },
     "done": true
   },
@@ -7401,6 +7625,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-21 15:34:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_support": {
+    "criteria": {
+      "has_plank": "2025-03-21 15:36:31 +0000"
     },
     "done": true
   },
@@ -7488,6 +7718,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/jungle_table_slab": {
+    "criteria": {
+      "has_jungle": "2025-03-21 15:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-21 15:34:14 +0000"
@@ -7509,6 +7745,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-03-21 15:09:54 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_flower_box": {
+    "criteria": {
+      "has_slab": "2025-03-21 15:38:18 +0000"
     },
     "done": true
   },
@@ -7539,6 +7781,24 @@
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:31 +0000"
     },
     "done": true
   },
@@ -7581,6 +7841,24 @@
   "aether_redux:recipes/transportation/fieldsproot_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-03-21 15:43:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2025-03-21 15:36:31 +0000"
     },
     "done": true
   },

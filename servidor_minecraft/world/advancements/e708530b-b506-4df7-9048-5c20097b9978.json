@@ -68,6 +68,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-03-18 14:33:49 +0000",
+      "minecraft:deep_ocean": "2025-03-21 15:35:59 +0000",
       "minecraft:sunflower_plains": "2025-03-18 14:42:12 +0000",
       "minecraft:bamboo_jungle": "2025-03-21 14:40:34 +0000",
       "minecraft:beach": "2025-03-18 15:43:29 +0000",
@@ -5401,6 +5402,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-03-21 15:05:05 +0000"
@@ -5419,9 +5426,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_bench": {
+    "criteria": {
+      "has_slab": "2025-03-21 15:37:08 +0000"
+    },
+    "done": true
+  },
   "deep_aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
       "has_quail_egg": "2025-03-21 15:08:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_bamboo": "2025-03-21 15:36:30 +0000"
     },
     "done": true
   },
@@ -5437,6 +5456,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-03-21 15:08:19 +0000"
@@ -5446,6 +5471,12 @@
   "galosphere:recipes/decorations/combustion_table": {
     "criteria": {
       "has_silver_ingot": "2025-03-21 15:05:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-03-21 15:42:29 +0000"
     },
     "done": true
   },
@@ -5467,9 +5498,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/warped_furnace_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:14:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2025-03-21 15:37:08 +0000"
     },
     "done": true
   },
@@ -5491,6 +5534,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/jungle_table": {
+    "criteria": {
+      "has_the_recipe": "2025-03-21 15:37:08 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-03-21 15:14:34 +0000"
@@ -5503,9 +5552,27 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-03-21 15:19:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-21 15:37:08 +0000"
     },
     "done": true
   },
@@ -5518,6 +5585,12 @@
   "boatload:recipes/transportation/mangrove_furnace_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:14:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-21 15:37:08 +0000"
     },
     "done": true
   },
@@ -5557,6 +5630,30 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
   "incubation:recipes/food/fried_egg": {
     "criteria": {
       "has_eggs": "2025-03-21 15:08:19 +0000"
@@ -5575,6 +5672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-21 15:42:29 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/acacia_furnace_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:14:34 +0000"
@@ -5584,6 +5687,12 @@
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-03-21 15:28:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-03-21 15:36:30 +0000"
     },
     "done": true
   },
@@ -5614,6 +5723,18 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-03-21 15:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-03-21 15:36:30 +0000"
     },
     "done": true
   },
@@ -5677,6 +5798,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:14:34 +0000"
@@ -5707,15 +5834,51 @@
     },
     "done": true
   },
+  "adorabuild_structures:ocean_odyssey": {
+    "criteria": {
+      "oak_ship_1": "2025-03-21 15:44:12 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-21 15:37:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-03-21 15:37:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:14:34 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-03-21 15:37:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-03-21 15:08:19 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-03-21 15:36:30 +0000"
     },
     "done": true
   },
@@ -5728,6 +5891,18 @@
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-03-21 15:19:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-03-21 15:35:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-03-21 15:37:08 +0000"
     },
     "done": true
   },
@@ -5761,6 +5936,18 @@
     },
     "done": true
   },
+  "another_furniture:recipes/spruce_shelf": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:14:34 +0000"
@@ -5779,9 +5966,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:14:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-03-21 15:37:08 +0000"
     },
     "done": true
   },
@@ -5791,15 +5996,33 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_shutter": {
+    "criteria": {
+      "has_slab": "2025-03-21 15:37:08 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/redstone/silver_balance": {
     "criteria": {
       "has_silver_ingot": "2025-03-21 15:05:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-21 15:37:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2025-03-21 15:19:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:30 +0000"
     },
     "done": true
   },
@@ -5845,6 +6068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-03-21 15:42:29 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweet_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2025-03-21 15:23:20 +0000"
@@ -5866,6 +6095,12 @@
   "aether_redux:recipes/transportation/jellyshroom_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:14:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-03-21 15:39:56 +0000"
     },
     "done": true
   },
@@ -5899,9 +6134,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/spruce_table": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:30 +0000"
     },
     "done": true
   },
@@ -5914,6 +6161,12 @@
   "boatload:recipes/transportation/birch_furnace_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:14:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-03-21 15:36:30 +0000"
     },
     "done": true
   },
@@ -5935,6 +6188,30 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/jungle_table_slab": {
+    "criteria": {
+      "has_jungle": "2025-03-21 15:37:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-21 15:37:08 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:tireless_legs": {
+    "criteria": {
+      "oak_ship_1": "2025-03-21 15:44:12 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-21 15:42:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-03-21 15:08:19 +0000"
@@ -5944,6 +6221,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-03-21 15:08:19 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_flower_box": {
+    "criteria": {
+      "has_slab": "2025-03-21 15:37:08 +0000"
     },
     "done": true
   },
@@ -5965,9 +6248,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-21 15:37:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-03-21 15:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:30 +0000"
     },
     "done": true
   },
@@ -5995,9 +6290,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/fieldsproot_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:14:34 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_spruce": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2025-03-21 15:37:08 +0000"
     },
     "done": true
   },
@@ -6007,9 +6338,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:36:30 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/large_mangrove_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:14:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-03-21 15:36:30 +0000"
     },
     "done": true
   },

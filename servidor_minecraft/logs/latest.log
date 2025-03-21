@@ -3913,3 +3913,11 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [21Mar2025 15:36:02.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Alemesa4) moved wrongly! 0.9310076434602053
 [21Mar2025 15:36:02.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Alemesa4) moved wrongly! 0.25423727469613766
 [21Mar2025 15:36:03.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Alemesa4) moved wrongly! 0.2601834949587811
+[21Mar2025 15:37:52.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alemesa4 has made the advancement [Who's the Pillager Now?]
+[21Mar2025 15:38:35.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alemesa4 was slain by Vindicator
+[21Mar2025 15:38:54.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alemesa4: Teleported Alemesa4 to Neokiller]
+[21Mar2025 15:43:53.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alemesa4 has completed the challenge [Overkill]
+[21Mar2025 15:47:27.031] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[21Mar2025 15:47:27.031] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[21Mar2025 15:47:28.646] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1895, y=-8, z=-249} but found not block entity block Block{minecraft:cave_air} at location
+[21Mar2025 15:47:28.646] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1895, y=-8, z=-249}
