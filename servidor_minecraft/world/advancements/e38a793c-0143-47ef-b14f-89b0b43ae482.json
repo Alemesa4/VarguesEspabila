@@ -70,6 +70,7 @@
       "minecraft:snowy_slopes": "2025-03-18 14:47:31 +0000",
       "minecraft:deep_ocean": "2025-03-21 15:35:58 +0000",
       "minecraft:sunflower_plains": "2025-03-18 14:50:11 +0000",
+      "minecraft:birch_forest": "2025-03-21 15:52:34 +0000",
       "minecraft:bamboo_jungle": "2025-03-21 14:40:59 +0000",
       "minecraft:beach": "2025-03-21 15:34:06 +0000",
       "minecraft:sparse_jungle": "2025-03-21 14:22:40 +0000",
@@ -2581,6 +2582,7 @@
       "poisonous_potato": "2025-03-18 14:54:32 +0000",
       "bread": "2025-03-18 14:55:38 +0000",
       "golden_apple": "2025-03-18 14:51:57 +0000",
+      "melon_slice": "2025-03-21 15:46:24 +0000",
       "golden_carrot": "2025-03-18 15:04:17 +0000",
       "carrot": "2025-03-18 14:51:24 +0000"
     },
@@ -2594,7 +2596,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-03-21 15:52:28 +0000",
       "scrubland": "2025-03-18 15:44:30 +0000",
+      "overgrown_greens": "2025-03-21 15:50:46 +0000",
+      "redwood_forest": "2025-03-21 15:49:39 +0000",
+      "dune_beach": "2025-03-21 15:47:56 +0000",
       "pasture": "2025-03-18 14:52:02 +0000",
       "prairie": "2025-03-18 14:52:06 +0000"
     },
@@ -6770,6 +6776,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-03-21 15:31:30 +0000"
@@ -6782,9 +6794,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_bench": {
     "criteria": {
       "has_slab": "2025-03-21 15:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
     },
     "done": true
   },
@@ -6794,9 +6818,21 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-03-21 15:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
     },
     "done": true
   },
@@ -6902,6 +6938,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-03-21 15:29:37 +0000"
@@ -6911,6 +6953,18 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-03-21 15:09:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-21 15:53:33 +0000"
     },
     "done": true
   },
@@ -6929,6 +6983,12 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-03-21 15:53:33 +0000"
     },
     "done": true
   },
@@ -6953,6 +7013,12 @@
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
     },
     "done": true
   },
@@ -7016,6 +7082,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-21 15:53:33 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_counter": {
     "criteria": {
       "has_jungle_counter": "2025-03-21 15:36:31 +0000"
@@ -7076,6 +7148,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-21 15:53:33 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/large_birch_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
@@ -7118,6 +7196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-03-21 15:36:31 +0000"
@@ -7127,6 +7211,12 @@
   "another_furniture:recipes/jungle_table": {
     "criteria": {
       "has_planks": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-03-21 15:48:27 +0000"
     },
     "done": true
   },
@@ -7142,9 +7232,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
     },
     "done": true
   },
@@ -7178,9 +7280,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
       "kill_pillager": "2025-03-21 15:37:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
     },
     "done": true
   },
@@ -7292,9 +7406,21 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_shelf": {
     "criteria": {
       "has_planks": "2025-03-21 15:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-21 15:53:33 +0000"
     },
     "done": true
   },
@@ -7406,6 +7532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/amethyst_lamp": {
     "criteria": {
       "has_glowstone": "2025-03-21 15:29:37 +0000"
@@ -7466,6 +7598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_corner_trim": {
     "criteria": {
       "has_jungle_corner_trim": "2025-03-21 15:36:31 +0000"
@@ -7502,6 +7640,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-21 15:53:43 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_shutter": {
     "criteria": {
       "has_slab": "2025-03-21 15:38:18 +0000"
@@ -7511,6 +7655,12 @@
   "decorative_blocks:recipes/building_blocks/birch_support": {
     "criteria": {
       "has_plank": "2025-03-21 15:31:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-21 15:53:33 +0000"
     },
     "done": true
   },
@@ -7532,6 +7682,24 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-21 15:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/large_crimson_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
@@ -7541,6 +7709,18 @@
   "aether_redux:recipes/transportation/cloudcap_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-03-21 15:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-03-21 15:53:43 +0000"
     },
     "done": true
   },
@@ -7559,6 +7739,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-21 15:34:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-03-21 15:48:27 +0000"
     },
     "done": true
   },
@@ -7586,6 +7772,18 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-03-21 15:32:15 +0000"
@@ -7607,6 +7805,12 @@
   "decorative_blocks:recipes/building_blocks/jungle_seat": {
     "criteria": {
       "has_plank": "2025-03-21 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
     },
     "done": true
   },
@@ -7670,6 +7874,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-03-21 15:48:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_birch": {
     "criteria": {
       "has_planks": "2025-03-21 15:31:30 +0000"
@@ -7718,9 +7934,33 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-21 15:53:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-21 15:53:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/jungle_table_slab": {
     "criteria": {
       "has_jungle": "2025-03-21 15:38:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
     },
     "done": true
   },
@@ -7748,6 +7988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_flower_box": {
     "criteria": {
       "has_slab": "2025-03-21 15:38:18 +0000"
@@ -7760,9 +8006,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-21 15:53:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-03-21 15:34:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-21 15:53:33 +0000"
     },
     "done": true
   },
@@ -7814,6 +8072,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-21 15:53:33 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_dining_bench": {
     "criteria": {
       "has_birch_dining_bench": "2025-03-21 15:31:30 +0000"
@@ -7835,6 +8099,12 @@
   "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-21 15:07:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-03-21 15:53:33 +0000"
     },
     "done": true
   },
@@ -7883,6 +8153,18 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-21 15:31:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2025-03-21 15:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-03-21 15:48:27 +0000"
     },
     "done": true
   },
