@@ -3995,3 +3995,35 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [21Mar2025 17:17:39.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Neokiller explotó
 [21Mar2025 17:18:02.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neokiller has made the advancement [Fungal detective]
 [21Mar2025 17:18:09.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Neokiller> suicidate bro
+[21Mar2025 17:22:51.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Neokiller lost connection: Disconnected
+[21Mar2025 17:22:51.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neokiller left the game
+[21Mar2025 17:22:51.362] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e708530b-b506-4df7-9048-5c20097b9978
+[21Mar2025 17:23:43.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alemesa4 lost connection: Disconnected
+[21Mar2025 17:23:43.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alemesa4 left the game
+[21Mar2025 17:23:43.210] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e38a793c-0143-47ef-b14f-89b0b43ae482
+[21Mar2025 17:23:54.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Mar2025 17:23:54.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Mar2025 17:23:54.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Mar2025 17:23:54.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Mar2025 17:23:54.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Mar2025 17:23:54.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[21Mar2025 17:23:54.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[21Mar2025 17:23:54.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[21Mar2025 17:23:54.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[21Mar2025 17:23:54.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Mar2025 17:23:54.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[21Mar2025 17:23:55.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Mar2025 17:23:55.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Mar2025 17:23:55.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[21Mar2025 17:23:55.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[21Mar2025 17:23:55.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[21Mar2025 17:23:55.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[21Mar2025 17:23:55.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Mar2025 17:23:55.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[21Mar2025 17:23:55.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Mar2025 17:23:55.449] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[21Mar2025 17:23:55.449] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[21Mar2025 17:23:55.452] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Mar2025 17:23:55.453] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[21Mar2025 17:23:55.454] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[21Mar2025 17:23:55.454] [Server thread/INFO] [Framework/]: Finished unloading server configs

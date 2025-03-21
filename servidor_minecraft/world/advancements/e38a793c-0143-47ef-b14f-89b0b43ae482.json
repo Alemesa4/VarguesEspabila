@@ -8289,6 +8289,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-21 17:18:33 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
     "criteria": {
       "has_item": "2025-03-21 16:12:54 +0000"
@@ -8379,6 +8385,12 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-21 17:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-03-21 16:13:41 +0000"
@@ -8427,6 +8439,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-21 17:18:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-21 16:12:54 +0000"
@@ -8442,6 +8460,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-03-21 16:13:41 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:fungal_detective": {
+    "criteria": {
+      "mushroom_large_1": "2025-03-21 17:17:21 +0000"
     },
     "done": true
   },
@@ -8487,6 +8511,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-21 17:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-03-21 16:45:59 +0000"
@@ -8502,6 +8532,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-21 16:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-21 17:18:33 +0000"
     },
     "done": true
   },
@@ -8669,7 +8705,8 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
-      "prison_small_1": "2025-03-21 16:51:35 +0000"
+      "prison_small_1": "2025-03-21 16:51:35 +0000",
+      "mushroom_large_1": "2025-03-21 17:17:21 +0000"
     },
     "done": false
   },
