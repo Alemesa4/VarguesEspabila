@@ -3901,3 +3901,28 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [21Mar2025 16:20:25.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alemesa4> FIU
 [21Mar2025 16:21:34.476] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
 [21Mar2025 16:21:34.639] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 163ms
+[21Mar2025 16:31:09.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Neokiller lost connection: Disconnected
+[21Mar2025 16:31:09.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neokiller left the game
+[21Mar2025 16:31:09.509] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e708530b-b506-4df7-9048-5c20097b9978
+[21Mar2025 16:33:45.078] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Neokiller is e708530b-b506-4df7-9048-5c20097b9978
+[21Mar2025 16:33:47.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Neokiller[/127.16.182.29:58947] logged in with entity id 6672 at (2327.2112704651463, 64.0, -686.3416446722298)
+[21Mar2025 16:33:47.941] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Neokiller
+[21Mar2025 16:33:47.942] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Neokiller
+[21Mar2025 16:33:47.942] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Neokiller
+[21Mar2025 16:33:47.943] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Neokiller
+[21Mar2025 16:33:47.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Neokiller
+[21Mar2025 16:33:47.947] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Neokiller
+[21Mar2025 16:33:47.948] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Neokiller
+[21Mar2025 16:33:47.960] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21Mar2025 16:33:47.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neokiller joined the game
+[21Mar2025 16:33:48.066] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e708530b-b506-4df7-9048-5c20097b9978
+[21Mar2025 16:33:48.075] [Server thread/INFO] [Jade/]: Syncing config to Neokiller (e708530b-b506-4df7-9048-5c20097b9978)
+[21Mar2025 16:33:48.942] [Server thread/INFO] [ping-wheel/]: Channel update: Neokiller -> default
+[21Mar2025 16:33:48.945] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[21Mar2025 16:34:19.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Neokiller> zzzzzzzzzzzzzzzzzzzz
+[21Mar2025 16:34:19.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Neokiller> z
+[21Mar2025 16:34:20.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Neokiller> z
+[21Mar2025 16:34:20.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Neokiller> z
+[21Mar2025 16:34:20.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Neokiller> z
+[21Mar2025 16:34:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Neokiller> z
+[21Mar2025 16:34:22.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Neokiller> hola
