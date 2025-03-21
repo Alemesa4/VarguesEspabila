@@ -68,6 +68,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-03-18 14:33:49 +0000",
+      "minecraft:mushroom_fields": "2025-03-21 17:12:27 +0000",
       "minecraft:deep_ocean": "2025-03-21 15:35:59 +0000",
       "minecraft:sunflower_plains": "2025-03-18 14:42:12 +0000",
       "minecraft:birch_forest": "2025-03-21 15:52:26 +0000",
@@ -84,6 +85,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-03-21 16:37:49 +0000",
       "minecraft:flower_forest": "2025-03-18 14:46:10 +0000",
       "minecraft:frozen_peaks": "2025-03-18 14:54:53 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-21 17:09:34 +0000",
       "minecraft:savanna": "2025-03-21 16:50:39 +0000",
       "minecraft:plains": "2025-03-18 14:46:31 +0000"
     },
@@ -2498,9 +2500,11 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-03-21 15:52:25 +0000",
+      "rocky_shrubland": "2025-03-21 17:09:36 +0000",
       "scrubland": "2025-03-21 16:57:47 +0000",
       "erupting_inferno": "2025-03-21 16:15:07 +0000",
       "floodplain": "2025-03-21 16:38:19 +0000",
+      "orchard": "2025-03-21 17:10:54 +0000",
       "overgrown_greens": "2025-03-21 15:50:46 +0000",
       "mediterranean_forest": "2025-03-21 17:05:26 +0000",
       "redwood_forest": "2025-03-21 15:49:38 +0000",
